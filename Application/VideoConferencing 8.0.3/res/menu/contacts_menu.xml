@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/chat"
+        android:title="@string/chat_str"/>
+    <item android:id="@+id/fileshare"
+        android:title="@string/file_str" />
+    <item android:id="@+id/audioCall"
+        android:title="@string/audio_str" />
+    <item android:id="@+id/videoCall"
+        android:title="@string/video_str" />
+    <item android:id="@+id/deleteContact"
+        android:title="@string/delete_str" />
+</menu>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+	 <FrameLayout
+	     	xmlns:android="http://schemas.android.com/apk/res/android"
+	        android:id="@+id/linearLayout1"
+	        android:layout_width="match_parent"
+	        android:layout_height="match_parent"
+	        android:orientation="horizontal" >
+
+	 		<LinearLayout
+	 		    android:id="@+id/menuList"
+	 		    android:layout_width="fill_parent"
+	 		    android:layout_height="fill_parent"
+	 		    android:background="#FFFFFF" >
+
+				<fragment
+				    android:id="@+id/MenuFrag"
+				    android:layout_width="match_parent"
+				    android:layout_height="match_parent"
+				    class="com.example.videoconferencing.MenuFrag">
+
+				</fragment>
+			</LinearLayout>
+	       <LinearLayout
+                android:id="@+id/linearLayout3"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="vertical" >
+				        <RelativeLayout
+				        android:layout_width="match_parent"
+					    android:layout_height="40dp"
+					    android:background="#659DC7">
+		
+					        <ImageButton
+					            android:id="@+id/togBt"
+					            android:layout_width="wrap_content"
+					            android:layout_height="wrap_content"
+					            android:src="@drawable/menu_select"
+					            android:layout_marginLeft="2dp"
+					            style="?android:attr/borderlessButtonStyle" />
+					        <ImageButton 
+					            android:id="@+id/addContact"
+					            android:layout_width="wrap_content"
+					            android:layout_height="wrap_content"
+					            android:layout_alignParentRight="true"
+					            android:src="@drawable/add_user"
+					            style="?android:attr/borderlessButtonStyle"
+					            />
+
+					        <TextView
+					            android:id="@+id/title"
+					            android:layout_width="wrap_content"
+					            android:layout_height="wrap_content"
+					            android:layout_centerVertical="true"
+					            android:layout_marginLeft="5dp"
+					            android:layout_toRightOf="@+id/togBt"
+					            android:text="Username"
+					           	android:textColor="#000000"
+					           	android:textAppearance="?android:attr/textAppearanceLarge"
+					            android:typeface="serif"
+					            android:textStyle="bold" />
+				        
+				    	</RelativeLayout>
+		    	<FrameLayout
+				    android:id="@+id/contents"
+				    android:layout_height="match_parent"
+				    android:layout_width="match_parent"
+				    android:background="#E5E5E5">
+				</FrameLayout>
+	 
+			</LinearLayout>
+
+	</FrameLayout>

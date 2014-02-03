@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><server>
+	<database>
+		<host>localhost</host>
+		<dname>userdetails</dname>
+		<username>root</username>
+		<password>tutul</password>
+	</database>
+        
+</server>

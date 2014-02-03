@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Video Chat</string>
+    <string name="action_settings">Settings</string>
+    <string name="chat_str">Chat</string>
+	<string name="file_str">File Share</string>
+	<string name="audio_str">Audio Call</string>
+	<string name="video_str">Video Call</string>
+	<string name="delete_str">Delete</string>
+	<string name="defaultServerIP">10.105.43.1</string>
+    <string name="summaryServerIP">10.105.43.1</string>
+    <string name="serverIP">Enter Server IP</string>
+    <string name="dialogServerIP">Server IP Address</string>
+    <string name="frequency">Select a Frequency</string>
+    <string name="summaryFrequency">11025 Hz</string>
+</resources>

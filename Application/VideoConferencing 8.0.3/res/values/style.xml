@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+    
+    <style name="roundedBlock">
+        <item name="android:background">@drawable/rounded_layer</item>
+    </style>
+    
+    <!-- 
+    <style name="MyActionBar" parent="android:style/Widget.Holo.Light.ActionBar">
+    	<item name="android:background">@drawable/navbar</item>
+	</style>
+	
+    <style name="CustomTheme" parent="@android:style/Theme.Holo">
+        <item name="android:actionBarStyle">@style/MyActionBar</item>
+    </style> -->
+    <color name="color1">#C10057</color>
+    <color name="color2">#8200EA</color>
+    <color name="color3">#00AE3F</color>
+    <color name="color4">#D02A2F</color>
+    <color name="color5">#2093D8</color>
+    <color name="color6">#A6E200</color>
+</resources>

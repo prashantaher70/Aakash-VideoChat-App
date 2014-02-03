@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+     <string-array name="list">  
+            <item>8000</item>
+		    <item>11025</item>
+		    <item>22050</item>
+		    <item>44100</item>
+		    </string-array>
+	<string-array name="lValue">
+		    <item>8000</item>
+		    <item>11025</item>
+		    <item>22050</item>
+		    <item>44100</item>
+		</string-array>
+	<string-array name="option_pane">
+		<item>File Sharing</item>
+	    <item>Audio Call</item>
+	    <item>Video Call</item>
+	</string-array>
+</resources>

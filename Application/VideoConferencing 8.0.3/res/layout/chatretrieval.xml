@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="match_parent"
+    android:orientation="horizontal" >
+    
+    <EditText
+        android:id="@+id/et_message"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignTop="@+id/bt_send"
+        android:layout_toLeftOf="@+id/bt_send"
+        android:ems="10"
+        android:hint="Enter message"
+        android:autoText="true"
+        android:gravity="center">
+
+        <requestFocus />
+    </EditText>
+
+    <Button
+        android:id="@+id/bt_send"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentRight="true"
+        android:text="Send" />
+
+    <TextView
+        android:id="@+id/tv_recvr_name"
+        android:layout_width="match_parent"
+        android:layout_height="30dp"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:gravity="center"
+        android:textAppearance="?android:attr/textAppearanceLarge" />
+
+    <TextView
+        android:id="@+id/tv_retrieval"
+        android:paddingTop="10dp"
+        android:paddingLeft="40dp"
+        android:layout_width="match_parent"
+        android:layout_height="15dp"
+        android:layout_above="@+id/et_message"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/tv_recvr_name"
+        android:focusable="true"
+        android:gravity="left"
+        android:textIsSelectable="true"
+        android:maxLines="15"
+        android:textSize="18sp"
+        android:scrollbars="vertical" />
+    
+</RelativeLayout>
+    
+
+
+

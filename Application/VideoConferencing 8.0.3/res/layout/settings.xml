@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    	xmlns:android="http://schemas.android.com/apk/res/android"
+	    android:id="@+id/linearLayout1"
+	    android:layout_width="match_parent"
+	    android:layout_height="match_parent"
+	    android:orientation="vertical">
+
+		<EditText
+		    android:id="@+id/etOldPwd"
+		    android:layout_width="300dp"
+		    android:layout_height="wrap_content"
+		    android:layout_alignParentTop="true"
+		    android:layout_centerHorizontal="true"
+		    android:layout_marginTop="25dp"
+		    android:ems="10"
+		    android:inputType="textPassword"
+		    android:hint="Old Password"
+		    android:gravity="center"
+		    android:textColorHint="#000000">
+
+		    <requestFocus />
+		</EditText>
+		<EditText
+	         android:id="@+id/etNewPwd"
+	         android:layout_width="300dp"
+	         android:layout_height="wrap_content"
+	         android:ems="10"
+	         android:inputType="textPassword"
+	         android:gravity="center"
+		    android:layout_centerHorizontal="true"
+		    android:layout_below="@id/etOldPwd"
+		    android:layout_marginTop="25dp"
+		    android:hint="New Password"
+		    android:textColor="#000000"
+		    android:textColorHint="#000000"/>
+		<EditText
+	         android:id="@+id/etConfPwd"
+	         android:layout_width="300dp"
+	         android:layout_height="wrap_content"
+	         android:ems="10"
+	         android:inputType="textPassword"
+	         android:hint="Confirm New Password"
+		    android:gravity="center"
+		    android:layout_centerHorizontal="true"
+		    android:layout_below="@id/etNewPwd"
+		    android:layout_marginTop="25dp"
+		    android:textColor="#000000"
+		    android:textColorHint="#000000"/>
+
+		<Button
+		    android:id="@+id/bSubmit"
+		    android:layout_width="wrap_content"
+		    android:layout_height="wrap_content"
+		    android:layout_alignLeft="@+id/etConfPwd"
+		    android:layout_alignRight="@+id/etConfPwd"
+		    android:layout_below="@id/etConfPwd"
+		    android:layout_marginTop="25dp"
+		    android:background="@drawable/loginbt_back"
+		    android:gravity="center"
+		    android:text="Submit"
+		    android:textColor="#000000" />
+
+</RelativeLayout>

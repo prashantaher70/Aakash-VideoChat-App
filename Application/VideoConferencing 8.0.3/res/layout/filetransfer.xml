@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="30dp"
+    android:background="@drawable/loginback">"
+	<RelativeLayout 
+	    android:layout_width="match_parent"
+	    android:layout_height="match_parent"
+	    android:background="@drawable/rounded_layer">
+	
+			<Button
+			    android:id="@+id/bOpen"
+			    android:layout_width="120dp"
+			    android:layout_height="wrap_content"
+			    android:layout_alignLeft="@+id/tvFileName"
+			    android:layout_below="@+id/tvFileName"
+			    android:layout_marginLeft="62dp"
+			    android:layout_marginTop="29dp"
+			    android:background="@drawable/loginbt_back"
+			    android:text="Browse" />
+	
+			<Button
+			    android:id="@+id/BSend"
+			    android:layout_width="120dp"
+			    android:layout_height="wrap_content"
+			    android:layout_alignBaseline="@+id/bOpen"
+			    android:layout_alignBottom="@+id/bOpen"
+			    android:layout_alignRight="@+id/tvFileName"
+			    android:layout_marginRight="46dp"
+			    android:background="@drawable/loginbt_back"
+			    android:text="Send" />
+	
+			<TextView
+			    android:id="@+id/tvFileStatus"
+			    android:layout_width="wrap_content"
+			    android:layout_height="wrap_content"
+			    android:layout_below="@+id/bOpen"
+			    android:layout_centerHorizontal="true"
+			    android:layout_marginTop="28dp"
+			    android:text="Call status..." />
+	
+			<TextView
+			    android:id="@+id/tvFileName"
+			    android:layout_width="400dp"
+			    android:layout_height="wrap_content"
+			    android:layout_alignParentTop="true"
+			    android:layout_centerHorizontal="true"
+			    android:layout_marginTop="40dp"
+			    android:gravity="center"
+			    android:text="FileNameHere.."
+			    android:textAppearance="?android:attr/textAppearanceMedium" />
+	
+	</RelativeLayout>
+</LinearLayout>

@@ -1,0 +1,336 @@
+28/06/2013_23:04:08
+ERROR : Table 'userdetails.address' doesn't existERROR : Table 'userdetails.address' doesn't exist
+ERROR : Table 'userdetails.address' doesn't exist
+ERROR : Table 'userdetails.address' doesn't exist
+ERROR : Table 'userdetails.address' doesn't exist
+ERROR : Table 'userdetails.address' doesn't exist
+ERROR : Table 'userdetails.address' doesn't exist
+ERROR : Table 'userdetails.address' doesn't exist
+ERROR : Table 'userdetails.address' doesn't exist
+ERROR : Table 'userdetails.address' doesn't exist
+ERROR : Table 'userdetails.address' doesn't exist
+
+28/06/2013_23:04:36
+ERROR : Table 'userdetails.address' doesn't exist
+ERROR : Table 'userdetails.address' doesn't exist
+ERROR : Table 'userdetails.address' doesn't exist
+ERROR : Table 'userdetails.address' doesn't exist
+ERROR : Table 'userdetails.address' doesn't exist
+ERROR : Table 'userdetails.address' doesn't exist
+ERROR : Table 'userdetails.address' doesn't exist
+ERROR : Table 'userdetails.address' doesn't exist
+ERROR : Table 'userdetails.address' doesn't exist
+ERROR : Table 'userdetails.address' doesn't exist
+ERROR : Table 'userdetails.address' doesn't exist
+ERROR : Table 'userdetails.address' doesn't exist
+ERROR : Table 'userdetails.address' doesn't exist
+ERROR : Table 'userdetails.address' doesn't exist
+ERROR : Table 'userdetails.address' doesn't exist
+ERROR : Table 'userdetails.address' doesn't exist
+ERROR : Table 'userdetails.address' doesn't exist
+ERROR : Table 'userdetails.address' doesn't exist
+ERROR : Table 'userdetails.address' doesn't exist
+ERROR : Table 'userdetails.address' doesn't exist
+ERROR : Table 'userdetails.address' doesn't exist
+ERROR : Table 'userdetails.address' doesn't exist
+ERROR : Table 'userdetails.address' doesn't exist
+ERROR : Table 'userdetails.address' doesn't exist
+
+28/06/2013_23:09:01
+ERROR : Table 'userdetails.address' doesn't exist
+ERROR : Table 'userdetails.address' doesn't exist
+ERROR : Table 'userdetails.address' doesn't exist
+ERROR : Table 'userdetails.address' doesn't exist
+ERROR : Table 'userdetails.address' doesn't exist
+ERROR : Table 'userdetails.address' doesn't exist
+ERROR : Table 'userdetails.address' doesn't exist
+ERROR : Table 'userdetails.address' doesn't exist
+ERROR : Table 'userdetails.address' doesn't exist
+ERROR : Table 'userdetails.address' doesn't exist
+ERROR : Table 'userdetails.address' doesn't exist
+ERROR : Table 'userdetails.address' doesn't exist
+ERROR : Table 'userdetails.address' doesn't exist
+ERROR : Table 'userdetails.address' doesn't exist
+ERROR : Table 'userdetails.address' doesn't exist
+ERROR : Table 'userdetails.address' doesn't exist
+ERROR : Table 'userdetails.address' doesn't exist
+ERROR : Table 'userdetails.address' doesn't exist
+ERROR : Table 'userdetails.address' doesn't exist
+ERROR : Table 'userdetails.address' doesn't exist
+ERROR : Table 'userdetails.address' doesn't exist
+ERROR : Table 'userdetails.address' doesn't exist
+ERROR : Table 'userdetails.address' doesn't exist
+ERROR : Table 'userdetails.address' doesn't exist
+ERROR : Table 'userdetails.address' doesn't exist
+ERROR : Table 'userdetails.address' doesn't exist
+ERROR : Table 'userdetails.address' doesn't exist
+ERROR : Table 'userdetails.address' doesn't exist
+ERROR : Table 'userdetails.address' doesn't exist
+ERROR : Table 'userdetails.address' doesn't exist
+ERROR : Table 'userdetails.address' doesn't exist
+ERROR : Table 'userdetails.address' doesn't exist
+ERROR : Table 'userdetails.address' doesn't exist
+ERROR : Table 'userdetails.address' doesn't exist
+ERROR : Table 'userdetails.address' doesn't exist
+ERROR : Table 'userdetails.address' doesn't exist
+ERROR : Table 'userdetails.address' doesn't exist
+ERROR : Table 'userdetails.address' doesn't exist
+ERROR : Table 'userdetails.address' doesn't exist
+ERROR : Table 'userdetails.address' doesn't exist
+ERROR : Table 'userdetails.address' doesn't exist
+ERROR : Table 'userdetails.address' doesn't exist
+ERROR : Table 'userdetails.address' doesn't exist
+ERROR : Table 'userdetails.address' doesn't exist
+ERROR : Table 'userdetails.address' doesn't exist
+ERROR : Table 'userdetails.address' doesn't exist
+ERROR : Table 'userdetails.address' doesn't exist
+ERROR : Table 'userdetails.address' doesn't exist
+ERROR : Table 'userdetails.address' doesn't exist
+ERROR : Table 'userdetails.address' doesn't exist
+ERROR : Table 'userdetails.address' doesn't exist
+ERROR : Table 'userdetails.address' doesn't exist
+ERROR : Table 'userdetails.address' doesn't exist
+ERROR : Table 'userdetails.address' doesn't exist
+ERROR : Table 'userdetails.address' doesn't exist
+ERROR : Table 'userdetails.address' doesn't exist
+ERROR : Table 'userdetails.address' doesn't exist
+ERROR : Table 'userdetails.address' doesn't exist
+ERROR : Table 'userdetails.address' doesn't exist
+ERROR : Table 'userdetails.address' doesn't exist
+ERROR : Table 'userdetails.address' doesn't exist
+ERROR : Table 'userdetails.address' doesn't exist
+ERROR : Table 'userdetails.address' doesn't exist
+ERROR : Table 'userdetails.address' doesn't exist
+ERROR : Table 'userdetails.address' doesn't exist
+ERROR : Table 'userdetails.address' doesn't exist
+ERROR : Table 'userdetails.address' doesn't exist
+ERROR : Table 'userdetails.address' doesn't exist
+ERROR : Table 'userdetails.address' doesn't exist
+ERROR : Table 'userdetails.address' doesn't exist
+ERROR : Table 'userdetails.address' doesn't exist
+ERROR : Table 'userdetails.address' doesn't exist
+ERROR : Table 'userdetails.address' doesn't exist
+ERROR : Table 'userdetails.address' doesn't exist
+ERROR : Table 'userdetails.address' doesn't exist
+ERROR : Table 'userdetails.address' doesn't exist
+ERROR : Table 'userdetails.address' doesn't exist
+ERROR : Table 'userdetails.address' doesn't exist
+ERROR : Table 'userdetails.address' doesn't exist
+ERROR : Table 'userdetails.address' doesn't exist
+ERROR : Table 'userdetails.address' doesn't exist
+ERROR : Table 'userdetails.address' doesn't exist
+ERROR : Table 'userdetails.address' doesn't exist
+ERROR : Table 'userdetails.address' doesn't exist
+ERROR : Table 'userdetails.address' doesn't exist
+ERROR : Table 'userdetails.address' doesn't exist
+ERROR : Table 'userdetails.address' doesn't exist
+ERROR : Table 'userdetails.address' doesn't exist
+ERROR : Table 'userdetails.address' doesn't exist
+ERROR : Table 'userdetails.address' doesn't exist
+ERROR : Table 'userdetails.address' doesn't exist
+ERROR : Table 'userdetails.address' doesn't exist
+ERROR : Table 'userdetails.address' doesn't exist
+ERROR : Table 'userdetails.address' doesn't exist
+ERROR : Table 'userdetails.address' doesn't exist
+ERROR : Table 'userdetails.address' doesn't exist
+ERROR : Table 'userdetails.address' doesn't exist
+ERROR : Table 'userdetails.address' doesn't exist
+ERROR : Table 'userdetails.address' doesn't exist
+ERROR : Table 'userdetails.address' doesn't exist
+ERROR : Table 'userdetails.address' doesn't exist
+ERROR : Table 'userdetails.address' doesn't exist
+ERROR : Table 'userdetails.address' doesn't exist
+ERROR : Table 'userdetails.address' doesn't exist
+ERROR : Table 'userdetails.address' doesn't exist
+ERROR : Table 'userdetails.address' doesn't exist
+ERROR : Table 'userdetails.address' doesn't exist
+ERROR : Table 'userdetails.address' doesn't exist
+ERROR : Table 'userdetails.address' doesn't exist
+ERROR : Table 'userdetails.address' doesn't exist
+ERROR : Table 'userdetails.address' doesn't exist
+ERROR : Table 'userdetails.address' doesn't exist
+ERROR : Table 'userdetails.address' doesn't exist
+ERROR : Table 'userdetails.address' doesn't exist
+ERRORsqlinss : Can't create database 'userdetails'; database exists
+ERROR : Table 'userdetails.address' doesn't exist
+ERROR : Table 'userdetails.address' doesn't exist
+ERROR : Table 'userdetails.address' doesn't exist
+ERROR : Table 'userdetails.address' doesn't exist
+ERROR : Table 'userdetails.address' doesn't exist
+ERROR : Table 'userdetails.address' doesn't exist
+ERROR : Table 'userdetails.address' doesn't exist
+ERROR : Table 'userdetails.address' doesn't exist
+ERROR : Table 'userdetails.address' doesn't exist
+ERROR : Table 'userdetails.address' doesn't exist
+ERROR : Table 'userdetails.address' doesn't exist
+ERROR : Table 'userdetails.address' doesn't exist
+ERROR : Table 'userdetails.address' doesn't exist
+ERROR : Table 'userdetails.address' doesn't exist
+ERROR : Table 'userdetails.address' doesn't exist
+ERROR : Table 'userdetails.address' doesn't exist
+ERROR : Table 'userdetails.address' doesn't exist
+ERROR : Table 'userdetails.address' doesn't exist
+ERROR : Table 'userdetails.address' doesn't exist
+ERROR : Table 'userdetails.address' doesn't exist
+ERROR : Table 'userdetails.address' doesn't exist
+ERROR : Table 'userdetails.address' doesn't exist
+ERROR : Table 'userdetails.address' doesn't exist
+ERROR : Table 'userdetails.address' doesn't exist
+ERROR : Table 'userdetails.address' doesn't exist
+ERROR : Table 'userdetails.address' doesn't exist
+ERROR : Table 'userdetails.address' doesn't exist
+ERROR : Table 'userdetails.address' doesn't exist
+ERROR : Table 'userdetails.address' doesn't exist
+ERROR : Table 'userdetails.address' doesn't exist
+ERROR : Table 'userdetails.address' doesn't exist
+ERROR : Table 'userdetails.address' doesn't exist
+ERROR : Table 'userdetails.address' doesn't exist
+ERROR : Table 'userdetails.address' doesn't exist
+ERROR : Table 'userdetails.address' doesn't exist
+ERROR : Table 'userdetails.address' doesn't exist
+ERROR : Table 'userdetails.address' doesn't exist
+ERROR : Table 'userdetails.address' doesn't exist
+ERROR : Table 'userdetails.address' doesn't exist
+ERROR : Table 'userdetails.address' doesn't exist
+ERROR : Table 'userdetails.address' doesn't exist
+ERROR : Table 'userdetails.address' doesn't exist
+ERROR : Table 'userdetails.address' doesn't exist
+ERROR : Table 'userdetails.address' doesn't exist
+ERROR : Table 'userdetails.address' doesn't exist
+ERROR : Table 'userdetails.address' doesn't exist
+ERROR : Table 'userdetails.address' doesn't exist
+ERROR : Table 'userdetails.address' doesn't exist
+ERROR : Table 'userdetails.address' doesn't exist
+ERROR : Table 'userdetails.address' doesn't exist
+
+28/06/2013_23:34:58
+
+30/06/2013_00:28:24
+LOGIN REQUEST 
+from ajay
+wp this is the data sent
+LOGIN REQUEST 
+from ajay
+registered this is the data sent
+LOGIN REQUEST 
+from shreshtha
+wp this is the data sent
+LOGIN REQUEST 
+from shreshtha
+registered this is the data sent
+LOGIN REQUEST 
+from nishant
+wp this is the data sent
+LOGIN REQUEST 
+from ruchit
+wp this is the data sent
+LOGIN REQUEST 
+from nishant
+wp this is the data sent
+LOGIN REQUEST 
+from ruchit
+registered this is the data sent
+LOGIN REQUEST 
+from nishant
+wp this is the data sent
+LOGIN REQUEST 
+from nishant
+wp this is the data sent
+LOGIN REQUEST 
+from nishant
+wp this is the data sent
+LOGIN REQUEST 
+from nishant
+registered this is the data sent
+LOGIN REQUEST 
+from cheena
+registered this is the data sent
+Logout Request from aswqf
+File Transfer Request 
+Ip Request from nishant to sankalp
+invalid user 
+not this is the data sent
+File Transfer Request 
+Ip Request from nishant to sumantra17
+inside if rs.wasnull() ie user offlinedull
+dull this is the data sent
+File Transfer Request 
+Ip Request from cheena to ajay
+inside else rs.wasnull() ie user online192.168.43.10
+192.168.43.10 this is the data sent
+File Transfer Request 
+Ip Request from nishant to ajay
+inside else rs.wasnull() ie user onlinebusy
+busy this is the data sent
+LOGIN REQUEST 
+from nishant
+registered this is the data sent
+group me Request 
+Ip Request from shreshtha to ruchit
+inside else rs.wasnull() ie user online192.168.43.2 this is the data sent
+group me Request 
+Ip Request from shreshtha to ruchit
+inside else rs.wasnull() ie user online192.168.43.2 this is the data sent
+group me Request 
+Ip Request from shreshtha to ruchit
+inside else rs.wasnull() ie user online192.168.43.2 this is the data sent
+group me Request 
+Ip Request from shreshtha to ruchit
+inside else rs.wasnull() ie user online192.168.43.2 this is the data sent
+group me Request 
+Ip Request from shreshtha to ruchit
+inside else rs.wasnull() ie user online192.168.43.2 this is the data sent
+group me Request 
+Ip Request from shreshtha to ruchit
+inside else rs.wasnull() ie user online192.168.43.2 this is the data sent
+group me Request 
+Ip Request from shreshtha to ruchit
+inside else rs.wasnull() ie user online192.168.43.2 this is the data sent
+group me Request 
+Ip Request from ajay to ruchit
+inside else rs.wasnull() ie user online192.168.43.2 this is the data sent
+group me Request 
+Ip Request from ajay to shreshtha
+inside else rs.wasnull() ie user online192.168.43.3 this is the data sent
+group me Request 
+Ip Request from ajay to nishant
+inside else rs.wasnull() ie user online192.168.43.8 this is the data sent
+group me Request 
+Ip Request from ajay to cheena
+inside else rs.wasnull() ie user online192.168.43.4 this is the data sent
+free me Request 
+Free me Request from cheena
+free this is the data sent
+User freed from server sideLogout Request 
+Logout Request from cheena
+logout this is the data sent
+LOGIN REQUEST 
+from cheena
+registered this is the data sent
+
+30/06/2013_01:00:02
+LOGIN REQUEST 
+from nishant
+registered this is the data sent
+File Transfer Request 
+Ip Request from nishant to sankalp
+invalid user 
+not this is the data sent
+File Transfer Request 
+Ip Request from nishant to ajay
+inside else rs.wasnull() ie user onlinebusy
+busy this is the data sent
+
+30/06/2013_01:24:38
+File Transfer Request 
+Ip Request from nishant to ajay
+inside else rs.wasnull() ie user onlinebusy
+busy this is the data sent
+File Transfer Request 
+Ip Request from nishant to cheena
+inside if rs.wasnull() ie user offlinedull
+dull this is the data sent
+Logout Request 
+Logout Request from ajay
+logout this is the data sent
+

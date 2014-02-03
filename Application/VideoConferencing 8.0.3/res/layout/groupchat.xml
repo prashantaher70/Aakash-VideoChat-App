@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="match_parent"
+    android:orientation="horizontal"
+    android:background="@drawable/watermark">
+    
+    <EditText
+        android:id="@+id/et_message_group"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentLeft="true"
+        android:autoText="true"
+        android:ems="10"
+        android:gravity="center"
+        android:hint="Enter message" >
+
+        <requestFocus />
+    </EditText>
+
+    <Button
+        android:id="@+id/bt_send_group"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentRight="true"
+        android:text="Send" 
+        android:background="@drawable/loginbt_back"/>
+    
+    <ListView
+        android:id="@+id/chatList"
+        android:layout_width="400dp"
+        android:layout_height="wrap_content"
+        android:layout_above="@id/et_message_group"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/bBrowse"
+        android:layout_marginLeft="25dp"
+        android:layout_toLeftOf="@+id/onlineChatList"
+        android:divider="@null"
+        android:dividerHeight="0dp" >
+
+    </ListView>
+
+    <Button
+        android:id="@+id/file_send_group"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_marginLeft="24dp"
+        android:layout_marginTop="5dp"
+        android:layout_toRightOf="@+id/bBrowse"
+        android:text="Send File"
+        android:visibility="invisible"
+        android:background="@drawable/loginbt_back"/>
+
+    <ListView
+        android:id="@+id/onlineChatList"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/bt_send_group"
+        android:layout_alignParentRight="true"
+        android:layout_alignTop="@+id/chatList" >
+
+    </ListView>
+
+    <Button
+        android:id="@+id/bBrowse"
+        android:layout_marginTop="5dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/chatList"
+        android:layout_alignParentTop="true"
+        android:background="@drawable/loginbt_back"
+        android:text="Browse" />
+
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBaseline="@+id/file_send_group"
+        android:layout_alignBottom="@+id/file_send_group"
+        android:layout_alignLeft="@+id/onlineChatList"
+        android:text="Online Users"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:textStyle="bold" />
+
+</RelativeLayout>
+    
+
+
+

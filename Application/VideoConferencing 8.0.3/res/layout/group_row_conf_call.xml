@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    >
+ 
+    <View
+        android:id="@+id/colorStrip"
+        android:layout_width="15dp"
+        android:layout_height="60dp"
+        android:layout_alignParentLeft="true"
+        android:background="#FF6F31" >
+
+    </View>
+    <CheckBox
+        android:id="@+id/checkBox_audio"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerVertical="true"
+        android:layout_marginLeft="22dp"
+        android:layout_toRightOf="@+id/colorStrip"
+        android:focusable="false"
+        android:focusableInTouchMode="false"
+        android:text="CheckBox"
+        android:textStyle="bold"
+        />
+ 
+ 
+</RelativeLayout>
